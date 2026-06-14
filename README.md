@@ -67,7 +67,10 @@
  Open Source Learning
 
 ---
+## Philosophy
 
-##  Quote I Live By
+<div align="center">
 
-> "Small progress every day adds up to big results."
+> Building skills one commit at a time.
+
+</div>
