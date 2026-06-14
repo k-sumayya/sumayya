@@ -1,47 +1,100 @@
 <h1 align="center">Hi 👋, I'm Sumayya Khan</h1>
 
-<h3 align="center">🚀 CS Student | DSA Learner | Future Full Stack Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Student;DSA+Learner;Frontend+Developer;Future+Full+Stack+Developer" />
+</p>
 
-<br>
-
-## 👩‍💻 About Me
-
-- 🎓 First Year Computer Science Student
-- 🌱 Currently learning DSA and Web Development
-- 💻 Exploring JavaScript, React and Backend Development
-- 🚀 Building projects and improving problem-solving skills
-- 📚 Interested in Open Source Contributions
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=k-sumayya&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+```yaml
+Name: Sumayya Khan
+Education: B.Tech CSE
+Location: India
+Learning:
+  - Data Structures & Algorithms
+  - JavaScript
+  - React
+  - Backend Development
+
+Goal:
+  Become a Full Stack Developer
+```
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,git,github,vscode" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=k-sumayya&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=k-sumayya&show_icons=true&theme=tokyonight" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k-sumayya&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 2026 Goals
-
-- ✅ Learn DSA
-- ✅ Master JavaScript
-- 🔄 Learn React
-- 🔄 Build Full Stack Projects
-- 🔄 Contribute to Open Source
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sumayya&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+## 🔥 GitHub Streak
 
-[LinkedIn](YOUR_LINKEDIN_LINK)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=k-sumayya&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=k-sumayya&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🧠 Solve DSA Daily
+- ⚛️ Learn React
+- 🌐 Build Full Stack Projects
+- 🤝 Contribute to Open Source
+- 💼 Land a Software Internship
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Computer Science Student
+- 🚀 Learning Modern Web Development
+- 💻 Building Real-World Projects
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
