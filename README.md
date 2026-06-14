@@ -59,7 +59,7 @@
 <tr>
 <td align="center" width="20%">
 
-### --
+### 
 
 Reading
 
@@ -67,7 +67,7 @@ Reading
 
 <td align="center" width="20%">
 
-### --
+### 
 
 Music
 
@@ -75,7 +75,7 @@ Music
 
 <td align="center" width="20%">
 
-### --
+### 
 
 Growth
 
@@ -83,7 +83,7 @@ Growth
 
 <td align="center" width="20%">
 
-### --
+### 
 
 Ideas
 
@@ -91,7 +91,7 @@ Ideas
 
 <td align="center" width="20%">
 
-### --
+### 
 
 Open Source
 
