@@ -23,7 +23,6 @@
 
 ---
 
-##  Currently Learning
 
 ## Currently Learning
 
