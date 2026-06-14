@@ -53,36 +53,42 @@
 </div>
 
 ---
-## Work In Progress
+<h2>Work In Progress</h2>
 
 <table>
 <tr>
-<td width="45%">
+<td width="40%">
 
-### Kitty Game
+<h3>Kitty Game</h3>
 
-Currently developing a 2D game while exploring game mechanics, UI design, and performance optimization.
+<p>
+Currently developing a 2D survival game while exploring
+game mechanics, UI design and performance optimization.
+</p>
 
-**Status:** Active Development
+<b>Status:</b> Active Development
 
-**Tech Stack**
+<br><br>
 
-- JavaScript
-- HTML/CSS
-- Game Logic
-- UI Design
+<b>Tech Stack</b>
+
+<ul>
+<li>JavaScript</li>
+<li>HTML/CSS</li>
+<li>Game Logic</li>
+<li>UI Design</li>
+</ul>
 
 </td>
 
-<td width="55%">
+<td width="60%" align="center">
 
-<img src="./assets/kitty-game.png" width="100%" />
+<img src="assets/kitty-game.png" width="95%"/>
 
 </td>
+
 </tr>
 </table>
-
-
 
 
 ## Beyond Coding
