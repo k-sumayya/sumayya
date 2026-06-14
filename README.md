@@ -55,50 +55,19 @@
 ---
 ## Beyond Coding
 
-<table>
-<tr>
-<td align="center" width="20%">
+<div align="center">
 
-### 
+<img src="https://img.shields.io/badge/Reading-Tech%20Articles-blue?style=for-the-badge"/>
 
-Reading
+<img src="https://img.shields.io/badge/Music-Coding%20Sessions-purple?style=for-the-badge"/>
 
-</td>
+<img src="https://img.shields.io/badge/Self-Improvement-success?style=for-the-badge"/>
 
-<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Problem-Solving-orange?style=for-the-badge"/>
 
-### 
+<img src="https://img.shields.io/badge/Open%20Source-Learning-black?style=for-the-badge"/>
 
-Music
-
-</td>
-
-<td align="center" width="20%">
-
-### 
-
-Growth
-
-</td>
-
-<td align="center" width="20%">
-
-### 
-
-Ideas
-
-</td>
-
-<td align="center" width="20%">
-
-### 
-
-Open Source
-
-</td>
-</tr>
-</table>
-
+</div>
 ---
 ## Philosophy
 
