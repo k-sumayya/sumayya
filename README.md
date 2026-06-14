@@ -70,7 +70,6 @@
 ## Philosophy
 
 <div align="center">
-
-> Building skills one commit at a time.
+ Consistency compounds. Small improvements made every day lead to meaningful results over time.
 
 </div>
