@@ -29,40 +29,32 @@
 <br clear="right"/>
 
 ---
+```md
+---
 
 # ⚔️ Tech Arsenal
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,git,github,vscode,linux" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Coding Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=k-sumayya&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=k-sumayya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=k-sumayya&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=k-sumayya&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sumayya&layout=compact&theme=tokyonight"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sumayya&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -70,64 +62,41 @@
 
 # 🚀 Featured Projects
 
-### 🌤 Weather App
-Real-time weather application using API
-
-### 🎬 Netflix Clone
-Responsive frontend clone
-
-### ✅ Task Manager
-Task tracking application
-
-### 📚 DSA Tracker
-Track coding practice progress
-
----
-
-# 🎯 2026 Roadmap
-
-```text
-✅ C Programming
-✅ C++
-✅ HTML
-✅ CSS
-
-🔄 JavaScript
-🔄 DSA
-
-⏳ React
-⏳ Node.js
-⏳ MongoDB
-⏳ Full Stack Development
-```
-
----
-
-# 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=k-sumayya&theme=tokyonight&row=1&column=6"/>
+<a href="YOUR_PROJECT_LINK">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=k-sumayya&repo=weather-app&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="YOUR_PROJECT_LINK">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=k-sumayya&repo=task-manager&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k-sumayya&theme=tokyo-night"/>
+<img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-6A5ACD?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💭 Developer Quote
+# 🐍 Contribution Snake
 
 <div align="center">
 
-> "Every expert was once a beginner."
+![Snake animation](https://github.com/k-sumayya/k-sumayya/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -151,8 +120,7 @@ Track coding practice progress
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=k-sumayya&color=blue)
-
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer"/>
 
 </div>
+```
