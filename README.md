@@ -1,139 +1,191 @@
 <div align="center">
 
-# 👋 Hey, I'm Sumayya Khan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:7c3aed&text=SUMAYYA%20KHAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;DSA+Learner;Frontend+Developer;Future+Full+Stack+Developer;Open+Source+Enthusiast" />
-
-</div>
-
----
-
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-## 🙋‍♀️ About Me
-
-🎓 First Year Computer Science Student
-
-💻 Learning Data Structures & Algorithms
-
-🌱 Currently learning JavaScript & React
-
-🚀 Building Projects and Improving Problem Solving
-
-🤝 Looking for Open Source Opportunities
-
-⚡ Goal: Become a Full Stack Developer
-
-📍 India
-
-<br clear="right"/>
-
----
-
-# ⚔️ Tech Arsenal
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Student;DSA+Learner;Frontend+Developer;Future+Full+Stack+Developer;Building+One+Project+At+A+Time"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🌙 About Me
 
-<div align="center">
+```bash
+> whoami
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=k-sumayya&show_icons=true&theme=tokyonight"/>
+Sumayya Khan
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=k-sumayya&theme=tokyonight"/>
+> education
 
-</div>
+B.Tech Computer Science
 
-<div align="center">
+> current_focus
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sumayya&layout=compact&theme=tokyonight"/>
+Data Structures & Algorithms
+JavaScript
+React
 
-</div>
+> goal
 
----
-
-# 🚀 Featured Projects
-
-### 🌤 Weather App
-Real-time weather application using API
-
-### 🎬 Netflix Clone
-Responsive frontend clone
-
-### ✅ Task Manager
-Task tracking application
-
-### 📚 DSA Tracker
-Track coding practice progress
-
----
-
-# 🎯 2026 Roadmap
-
-```text
-✅ C Programming
-✅ C++
-✅ HTML
-✅ CSS
-
-🔄 JavaScript
-🔄 DSA
-
-⏳ React
-⏳ Node.js
-⏳ MongoDB
-⏳ Full Stack Development
+Become a Full Stack Developer
 ```
 
 ---
 
-# 🏆 GitHub Trophies
+# ⚡ Developer Dashboard
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=k-sumayya&theme=tokyonight&row=1&column=6"/>
+```text
+╭─────────────────────────────────────╮
+│          SUMAYYA SYSTEM             │
+├─────────────────────────────────────┤
+│ Status      : ONLINE                │
+│ Mode        : LEARNING              │
+│ Focus       : DSA + WEB DEV         │
+│ Energy      : ████████░░ 80%        │
+│ Consistency : █████████░ 90%        │
+│ Coffee      : REQUIRED ☕           │
+╰─────────────────────────────────────╯
+```
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🌱 Learning Tree
+
+```text
+Computer Science
+│
+├── Programming
+│   ├── C          ✅
+│   ├── C++        ✅
+│   ├── Python     ✅
+│
+├── Web Development
+│   ├── HTML       ✅
+│   ├── CSS        ✅
+│   ├── JavaScript 🔄
+│   ├── React      ⏳
+│
+└── Backend
+    ├── Node.js    ⏳
+    ├── MongoDB    ⏳
+    └── APIs       ⏳
+```
+
+---
+
+# 🛠 Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k-sumayya&theme=tokyo-night"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,git,github,vscode,linux"/>
 
 </div>
 
 ---
 
-# 💭 Developer Quote
+# 🎯 Current Mission
 
-<div align="center">
+```yaml
+mission:
+  title: Become a Full Stack Developer
 
-> "Every expert was once a beginner."
+current_tasks:
+  - Solve DSA Problems
+  - Learn JavaScript
+  - Build Projects
+  - Learn React
 
-</div>
+next_target:
+  - Internship
+```
 
 ---
 
-# 🌐 Connect With Me
+# 📚 Featured Projects
+
+## 🌦 Weather App
+
+Real-time weather updates using APIs
+
+## 🎬 Netflix Clone
+
+Frontend project with responsive UI
+
+## ✅ Task Manager
+
+Productivity application
+
+## 📖 DSA Tracker
+
+Track coding practice and progress
+
+---
+
+# 🎮 Skill Progress
+
+```text
+DSA                 ███████░░░ 70%
+
+HTML/CSS            ██████████ 100%
+
+JavaScript          ██████░░░░ 60%
+
+React               ███░░░░░░░ 30%
+
+Backend             ██░░░░░░░░ 20%
+
+Open Source         ██░░░░░░░░ 20%
+```
+
+---
+
+# 🖥 Terminal
+
+```bash
+$ whoami
+
+Sumayya Khan
+
+$ skills
+
+C C++ HTML CSS JavaScript
+
+$ currently_learning
+
+DSA
+React
+Backend Development
+
+$ dream_role
+
+Software Engineer
+
+$ status
+
+Building the future...
+```
+
+---
+
+# 💭 Dev Philosophy
+
+```cpp
+while(!success)
+{
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
+
+---
+
+# 🌐 Connect
 
 <div align="center">
 
@@ -151,8 +203,11 @@ Track coding practice progress
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=k-sumayya&color=blue)
+### ✨ Thanks for visiting my profile ✨
 
-⭐ Thanks for visiting my profile!
+*"Every expert was once a beginner."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:7c3aed"/>
+
