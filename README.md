@@ -1,110 +1,158 @@
-# 🌌 Developer Dashboard
-
 <div align="center">
 
-```text
-╭───────────────────────────────────────╮
-│                                       │
-│        ⚡ SUMAYYA KHAN ⚡             │
-│                                       │
-├───────────────────────────────────────┤
-│ 🎓 Student      : Computer Science    │
-│ 💻 Focus        : DSA + Web Dev       │
-│ 🌱 Learning     : JavaScript, React   │
-│ 🚀 Goal         : Full Stack Dev      │
-│ ☕ Status        : Coding...          │
-│ 🔥 Mode         : Consistency         │
-│                                       │
-╰───────────────────────────────────────╯
-```
+# 👋 Hey, I'm Sumayya Khan
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;DSA+Learner;Frontend+Developer;Future+Full+Stack+Developer;Open+Source+Enthusiast" />
 
 </div>
 
 ---
 
-## 🎯 Current Objectives
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-```yaml
-2026:
-  - Master DSA
-  - Learn React
-  - Build Real Projects
-  - Contribute to Open Source
-  - Secure Internship
-```
+## 🙋‍♀️ About Me
+
+🎓 First Year Computer Science Student
+
+💻 Learning Data Structures & Algorithms
+
+🌱 Currently learning JavaScript & React
+
+🚀 Building Projects and Improving Problem Solving
+
+🤝 Looking for Open Source Opportunities
+
+⚡ Goal: Become a Full Stack Developer
+
+📍 India
+
+<br clear="right"/>
 
 ---
 
-## ⚔️ Skill Progress
+# ⚔️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=k-sumayya&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=k-sumayya&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sumayya&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌤 Weather App
+Real-time weather application using API
+
+### 🎬 Netflix Clone
+Responsive frontend clone
+
+### ✅ Task Manager
+Task tracking application
+
+### 📚 DSA Tracker
+Track coding practice progress
+
+---
+
+# 🎯 2026 Roadmap
 
 ```text
-DSA               ███████░░░ 70%
+✅ C Programming
+✅ C++
+✅ HTML
+✅ CSS
 
-C/C++             ██████████ 100%
+🔄 JavaScript
+🔄 DSA
 
-HTML/CSS          ██████████ 100%
-
-JavaScript        ██████░░░░ 60%
-
-React             ███░░░░░░░ 30%
-
-Backend           ██░░░░░░░░ 20%
-
-Open Source       ██░░░░░░░░ 20%
+⏳ React
+⏳ Node.js
+⏳ MongoDB
+⏳ Full Stack Development
 ```
 
 ---
 
-## 🖥 Terminal
+# 🏆 GitHub Trophies
 
-```bash
-$ whoami
+<div align="center">
 
-Sumayya Khan
+<img src="https://github-profile-trophy.vercel.app/?username=k-sumayya&theme=tokyonight&row=1&column=6"/>
 
-$ current_focus
-
-Data Structures & Algorithms
-Frontend Development
-React
-
-$ dream_role
-
-Software Engineer
-
-$ status
-
-Building cool things...
-```
+</div>
 
 ---
 
-## 🌱 Learning Tree
+# 📈 Contribution Graph
 
-```text
-Computer Science
-│
-├── Programming
-│   ├── C           ✅
-│   ├── C++         ✅
-│   └── Python      ✅
-│
-├── Web Development
-│   ├── HTML        ✅
-│   ├── CSS         ✅
-│   ├── JavaScript  🔄
-│   └── React       ⏳
-│
-└── Backend
-    ├── Node.js     ⏳
-    ├── Express.js  ⏳
-    └── MongoDB     ⏳
-```
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=k-sumayya&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+> "Every expert was once a beginner."
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 "Every expert was once a beginner."
+![](https://komarev.com/ghpvc/?username=k-sumayya&color=blue)
+
+⭐ Thanks for visiting my profile!
 
 </div>
