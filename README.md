@@ -10,153 +10,67 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-## 🙋‍♀️ About Me
+## 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 📚 Learning         | 🎯 Goal                 |
+| ------------------- | ----------------------- |
+| DSA                 | Software Engineer       |
+| JavaScript          | Full Stack Developer    |
+| React               | Open Source Contributor |
+| Backend Development | Internship              |
+
+</div>
+
+---
+
+## ⚡ A Few Things About Me
 
 🎓 First Year Computer Science Student
 
-💻 Learning Data Structures & Algorithms
+💻 Passionate About Web Development
 
-🌱 Currently learning JavaScript & React
+📚 Consistently Learning New Technologies
 
-🚀 Building Projects and Improving Problem Solving
+🧩 Enjoy Solving Problems Through Code
 
-🤝 Looking for Open Source Opportunities
-
-⚡ Goal: Become a Full Stack Developer
-
-📍 India
-
-<br clear="right"/>
+🚀 Working Towards Becoming a Full Stack Developer
 
 ---
----
 
-# ⚔️ Tech Arsenal
+## 🌍 Beyond Coding
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,git,github,vscode,linux" />
+📖 Reading Tech Articles
+
+🎵 Listening To Music While Coding
+
+🌱 Self Improvement
+
+💡 Exploring New Ideas
+
+🤝 Open Source Learning
 
 </div>
 
 ---
 
-# 📊 Coding Stats
+## 💭 Quote I Live By
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=k-sumayya&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=k-sumayya&theme=tokyonight&hide_border=true"/>
+> "Small progress every day adds up to big results."
 
 </div>
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sumayya&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌦 Weather App
-Real-time weather forecasts using APIs.
-
-</td>
-
-<td width="50%">
-
-### 🎬 Netflix Clone
-Responsive Netflix-inspired UI.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ✅ Task Manager
-Task tracking and productivity app.
-
-</td>
-
-<td width="50%">
-
-### 📚 DSA Tracker
-Track coding practice and progress.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-6A5ACD?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📈 Activity Overview
-
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-sumayya&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k-sumayya&theme=tokyonight" />
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k-sumayya&theme=tokyonight" />
-</p>
-
-# 🎯 2026 Goals
-
-- ✅ Strengthen DSA
-- 🔄 Master JavaScript
-- 🔄 Learn React
-- ⏳ Learn Backend Development
-- ⏳ Contribute to Open Source
-- ⏳ Land an Internship
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile ⭐
 
 </div>
