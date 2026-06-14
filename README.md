@@ -10,6 +10,24 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
+## 🙋‍♀️ About Me
+
+🎓 First Year Computer Science Student
+
+💻 Learning Data Structures & Algorithms
+
+🌱 Currently learning JavaScript & React
+
+🚀 Building Projects and Improving Problem Solving
+
+🤝 Looking for Open Source Opportunities
+
+⚡ Goal: Become a Full Stack Developer
+
+📍 India
+
+---
+
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -22,34 +40,28 @@
 
 <div align="center">
 
-| 📚 Learning         | 🎯 Goal                 |
-| ------------------- | ----------------------- |
-| DSA                 | Software Engineer       |
-| JavaScript          | Full Stack Developer    |
-| React               | Open Source Contributor |
-| Backend Development | Internship              |
+| 📚 Learning | 🎯 Goal |
+|------------|----------|
+| DSA | Software Engineer |
+| JavaScript | Full Stack Developer |
+| React | Open Source Contributor |
+| Backend Development | Internship |
 
 </div>
 
 ---
 
-## ⚡ A Few Things About Me
+## ⚔️ Tech Arsenal
 
-🎓 First Year Computer Science Student
+<div align="center">
 
-💻 Passionate About Web Development
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,git,github,vscode,linux" />
 
-📚 Consistently Learning New Technologies
-
-🧩 Enjoy Solving Problems Through Code
-
-🚀 Working Towards Becoming a Full Stack Developer
+</div>
 
 ---
 
 ## 🌍 Beyond Coding
-
-<div align="center">
 
 📖 Reading Tech Articles
 
@@ -61,16 +73,8 @@
 
 🤝 Open Source Learning
 
-</div>
-
 ---
 
 ## 💭 Quote I Live By
 
-<div align="center">
-
 > "Small progress every day adds up to big results."
-
-</div>
-
-</div>
