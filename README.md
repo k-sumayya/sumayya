@@ -29,7 +29,6 @@
 <br clear="right"/>
 
 ---
-```md
 ---
 
 # ⚔️ Tech Arsenal
@@ -46,15 +45,15 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=k-sumayya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=k-sumayya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=k-sumayya&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=k-sumayya&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sumayya&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sumayya&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -64,13 +63,39 @@
 
 <div align="center">
 
-<a href="YOUR_PROJECT_LINK">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=k-sumayya&repo=weather-app&theme=tokyonight&hide_border=true"/>
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="YOUR_PROJECT_LINK">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=k-sumayya&repo=task-manager&theme=tokyonight&hide_border=true"/>
-</a>
+### 🌦 Weather App
+Real-time weather forecasts using APIs.
+
+</td>
+
+<td width="50%">
+
+### 🎬 Netflix Clone
+Responsive Netflix-inspired UI.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ✅ Task Manager
+Task tracking and productivity app.
+
+</td>
+
+<td width="50%">
+
+### 📚 DSA Tracker
+Track coding practice and progress.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -92,13 +117,14 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🎯 2026 Goals
 
-<div align="center">
-
-![Snake animation](https://github.com/k-sumayya/k-sumayya/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+- ✅ Strengthen DSA
+- 🔄 Master JavaScript
+- 🔄 Learn React
+- ⏳ Learn Backend Development
+- ⏳ Contribute to Open Source
+- ⏳ Land an Internship
 
 ---
 
@@ -120,7 +146,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer"/>
+⭐ Thanks for visiting my profile ⭐
 
 </div>
-```
