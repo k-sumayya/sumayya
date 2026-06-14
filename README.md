@@ -117,6 +117,17 @@ Track coding practice and progress.
 
 ---
 
+## 📈 Activity Overview
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-sumayya&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k-sumayya&theme=tokyonight" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k-sumayya&theme=tokyonight" />
+</p>
+
 # 🎯 2026 Goals
 
 - ✅ Strengthen DSA
