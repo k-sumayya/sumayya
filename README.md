@@ -53,6 +53,39 @@
 </div>
 
 ---
+## Work In Progress
+
+<table>
+<tr>
+<td width="45%">
+
+### Kitty Game
+
+A personal project where I'm building a game and experimenting with gameplay mechanics while improving my development skills.
+
+**Status:** In Development
+
+**Focus Areas:**
+- Game Logic
+- UI Design
+- Performance Optimization
+- Feature Development
+
+</td>
+
+<td width="55%">
+
+<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+
+
+
 ## Beyond Coding
 
 <div align="center">
