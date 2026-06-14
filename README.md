@@ -11,47 +11,41 @@
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ##  About Me
+## About Me
 
- First Year Computer Science Student
-
- Learning Data Structures & Algorithms
-
- Currently learning JavaScript & React
-
- Building Projects and Improving Problem Solving
-
- Looking for Open Source Opportunities
-
-⚡ Goal: Become a Full Stack Developer
-
- India
+- First Year Computer Science Student
+- Learning Data Structures & Algorithms
+- Currently learning JavaScript & React
+- Building Projects and Improving Problem Solving
+- Looking for Open Source Opportunities
+- Goal: Become a Full Stack Developer
+- India
 
 ---
 
 ##  Currently Learning
 
+## Currently Learning
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb" />
 
-</div>
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/React-Exploring-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-|  Learning |  Goal |
-|------------|----------|
-| DSA | Software Engineer |
-| JavaScript | Full Stack Developer |
-| React | Open Source Contributor |
-| Backend Development | Internship |
+<img src="https://img.shields.io/badge/Backend-In%20Progress-339933?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Getting%20Started-181717?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## ⚔️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
