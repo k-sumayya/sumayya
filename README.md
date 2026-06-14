@@ -61,27 +61,26 @@
 
 ### Kitty Game
 
-A personal project where I'm building a game and experimenting with gameplay mechanics while improving my development skills.
+Currently developing a 2D game while exploring game mechanics, UI design, and performance optimization.
 
-**Status:** In Development
+**Status:** Active Development
 
-**Focus Areas:**
+**Tech Stack**
+
+- JavaScript
+- HTML/CSS
 - Game Logic
 - UI Design
-- Performance Optimization
-- Feature Development
 
 </td>
 
 <td width="55%">
 
-<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+<img src="./assets/kitty-game.png" width="100%" />
 
 </td>
 </tr>
 </table>
-
----
 
 
 
