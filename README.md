@@ -53,18 +53,51 @@
 </div>
 
 ---
+## Beyond Coding
 
-##  Beyond Coding
+<table>
+<tr>
+<td align="center" width="20%">
 
- Reading Tech Articles
+### --
 
- Listening To Music While Coding
+Reading
 
- Self Improvement
+</td>
 
- Exploring New Ideas
+<td align="center" width="20%">
 
- Open Source Learning
+### --
+
+Music
+
+</td>
+
+<td align="center" width="20%">
+
+### --
+
+Growth
+
+</td>
+
+<td align="center" width="20%">
+
+### --
+
+Ideas
+
+</td>
+
+<td align="center" width="20%">
+
+### --
+
+Open Source
+
+</td>
+</tr>
+</table>
 
 ---
 ## Philosophy
