@@ -53,42 +53,7 @@
 </div>
 
 ---
-<h2>Work In Progress</h2>
 
-<table>
-<tr>
-<td width="40%">
-
-<h3>Kitty Game</h3>
-
-<p>
-Currently developing a 2D survival game while exploring
-game mechanics, UI design and performance optimization.
-</p>
-
-<b>Status:</b> Active Development
-
-<br><br>
-
-<b>Tech Stack</b>
-
-<ul>
-<li>JavaScript</li>
-<li>HTML/CSS</li>
-<li>Game Logic</li>
-<li>UI Design</li>
-</ul>
-
-</td>
-
-<td width="60%" align="center">
-
-<img src="assets/kitty-game.png" width="95%"/>
-
-</td>
-
-</tr>
-</table>
 
 
 ## Beyond Coding
