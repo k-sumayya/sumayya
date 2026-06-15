@@ -15,7 +15,7 @@
 
 - First Year Computer Science Student
 - Learning Data Structures & Algorithms
-- Currently learning JavaScript & React
+- Currently learning React & go
 - Building Projects and Improving Problem Solving
 - Looking for Open Source Opportunities
 - Goal: Become a Full Stack Developer
